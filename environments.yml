@@ -1,0 +1,12 @@
+name: tensorflow-development
+channels:
+- anaconda
+- conda-forge
+- defaults
+ 
+dependencies:
+ - python=3.7
+ - numpy
+ - matplotlib
+ - pandas
+ - tensorflow=2.x
