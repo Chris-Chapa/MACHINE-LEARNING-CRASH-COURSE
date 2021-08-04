@@ -10,3 +10,6 @@ dependencies:
  - matplotlib
  - pandas
  - tensorflow
+ - notebook
+ - nb_conda_kernels
+ - jupyter_contrib_nbextensions
