@@ -9,4 +9,4 @@ dependencies:
  - numpy
  - matplotlib
  - pandas
- - tensorflow=2.x
+ - tensorflow
